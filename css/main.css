@@ -1,0 +1,48 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@font-face {
+    font-family: 'DidotLTStd-Roman';
+    src: url('../fonts/Didot/webfonts/DidotLTStd-Roman.eot');
+    src: url('../fonts/Didot/webfonts/DidotLTStd-Roman.eot?#iefix') format('embedded-opentype'),url('../fonts/Didot/webfonts/DidotLTStd-Roman.woff2') format('woff2'),url('../fonts/Didot/webfonts/DidotLTStd-Roman.woff') format('woff'),url('../fonts/Didot/webfonts/DidotLTStd-Roman.ttf') format('truetype');
+}
+@font-face{
+	font-family:"DidotLTStd-Italic";
+	src:url("../fonts/Didot/webfonts/26183C_0_0.eot");
+	src:url("../fonts/Didot/webfonts/26183C_0_0.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Didot/webfonts/26183C_0_0.woff") format("woff"),
+		url("../fonts/Didot/webfonts/26183C_0_0.ttf") format("truetype"),
+		url("../fonts/Didot/webfonts/26183C_0_0.svg#wf") format("svg")
+}
+@font-face {
+    font-family: 'Soleil-Bold';
+    src: url('../fonts/Soleil/webfonts/Soleil-Bold.eot');
+    src: url('../fonts/Soleil/webfonts/Soleil-Bold.eot?#iefix') format('embedded-opentype'),url('../fonts/Soleil/webfonts/Soleil-Bold.woff2') format('woff2'),url('../fonts/Soleil/webfonts/Soleil-Bold.woff') format('woff'),url('../fonts/Soleil/webfonts/Soleil-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SoleilLt';
+    src: url('../fonts/Soleil/webfonts/SoleilLt.eot');
+    src: url('../fonts/Soleil/webfonts/SoleilLt.eot?#iefix') format('embedded-opentype'),url('../fonts/Soleil/webfonts/SoleilLt.woff2') format('woff2'),url('../fonts/Soleil/webfonts/SoleilLt.woff') format('woff'),url('../fonts/Soleil/webfonts/SoleilLt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil/webfonts/Soleil.eot');
+    src: url('../fonts/Soleil/webfonts/Soleil.eot?#iefix') format('embedded-opentype'),url('../fonts/Soleil/webfonts/Soleil.woff2') format('woff2'),url('../fonts/Soleil/webfonts/Soleil.woff') format('woff'),url('../fonts/Soleil/webfonts/Soleil.ttf') format('truetype');
+}
+
+h1, h2, h3, h4, h5 {
+	margin-top: 0;
+}
+
+h1 {
+	font-family: DidotLTStd-Italic, Georgia, "Times New Roman", Times, serif;
+}
+
+h3 {
+	font-size: 12px;
+}
+
+.btn {
+	margin-bottom: 5px;
+}

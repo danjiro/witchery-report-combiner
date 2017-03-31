@@ -1,0 +1,63 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3055017, 2015-07-07T20:54:42-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: DidotLTStd-Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/lt-std-italic/
+ * Copyright: Copyright &#x00A9; 1992, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * 
+ * Webfont: DidotLTStd-Ornaments by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/ornaments/
+ * Copyright: Copyright &#x00A9; 1992, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * 
+ * Webfont: DidotLTStd-Roman by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/std-roman/
+ * Copyright: Copyright &#x00A9; 1992, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * 
+ * Webfont: DidotLTStd-BoldItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/lt-std-bold-italic/
+ * Copyright: Copyright &#x00A9; 2012 Linotype GmbH, www.linotype.com. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of Linotype GmbH. Linotype Didot is a trademark of Linotype Gmb
+ * 
+ * Webfont: DidotLTStd-Bold by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/lt-std-bold/
+ * Copyright: Copyright &#x00A9; 1992, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * 
+ * Webfont: DidotLTStd-Headline by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/didot/lt-std-headline/
+ * Copyright: Copyright &#x00A9; 1992, 2002 Adobe Systems Incorporated.  All Rights Reserved. &#x00A9; 1981, 2002 Heidelberger Druckmaschinen AG. All rights reserved.
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3055017
+ * Licensed pageviews: 250,000
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2e9da9");
+
+  
+@font-face {font-family: 'DidotLTStd-Italic';src: url('webfonts/2E9DA9_0_0.eot');src: url('webfonts/2E9DA9_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_0_0.woff2') format('woff2'),url('webfonts/2E9DA9_0_0.woff') format('woff'),url('webfonts/2E9DA9_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DidotLTStd-Ornaments';src: url('webfonts/2E9DA9_1_0.eot');src: url('webfonts/2E9DA9_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_1_0.woff2') format('woff2'),url('webfonts/2E9DA9_1_0.woff') format('woff'),url('webfonts/2E9DA9_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DidotLTStd-Roman';src: url('webfonts/2E9DA9_2_0.eot');src: url('webfonts/2E9DA9_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_2_0.woff2') format('woff2'),url('webfonts/2E9DA9_2_0.woff') format('woff'),url('webfonts/2E9DA9_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DidotLTStd-BoldItalic';src: url('webfonts/2E9DA9_3_0.eot');src: url('webfonts/2E9DA9_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_3_0.woff2') format('woff2'),url('webfonts/2E9DA9_3_0.woff') format('woff'),url('webfonts/2E9DA9_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DidotLTStd-Bold';src: url('webfonts/2E9DA9_4_0.eot');src: url('webfonts/2E9DA9_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_4_0.woff2') format('woff2'),url('webfonts/2E9DA9_4_0.woff') format('woff'),url('webfonts/2E9DA9_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'DidotLTStd-Headline';src: url('webfonts/2E9DA9_5_0.eot');src: url('webfonts/2E9DA9_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2E9DA9_5_0.woff2') format('woff2'),url('webfonts/2E9DA9_5_0.woff') format('woff'),url('webfonts/2E9DA9_5_0.ttf') format('truetype');}
+ 

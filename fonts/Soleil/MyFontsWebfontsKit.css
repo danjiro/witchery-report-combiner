@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3055672, 2015-07-08T19:25:32-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Soleil-Bold by TypeTogether
+ * URL: http://www.myfonts.com/fonts/type-together/soleil/bold/
+ * 
+ * Webfont: SoleilLt by TypeTogether
+ * URL: http://www.myfonts.com/fonts/type-together/soleil/light/
+ * 
+ * Webfont: Soleil by TypeTogether
+ * URL: http://www.myfonts.com/fonts/type-together/soleil/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3055672
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright (c) 2011 by Wolfgang Homola, distributed by TypeTogether. All rights reserved.
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2ea038");
+
+  
+@font-face {font-family: 'Soleil-Bold';src: url('webfonts/2EA038_0_0.eot');src: url('webfonts/2EA038_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2EA038_0_0.woff2') format('woff2'),url('webfonts/2EA038_0_0.woff') format('woff'),url('webfonts/2EA038_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'SoleilLt';src: url('webfonts/2EA038_1_0.eot');src: url('webfonts/2EA038_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2EA038_1_0.woff2') format('woff2'),url('webfonts/2EA038_1_0.woff') format('woff'),url('webfonts/2EA038_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Soleil';src: url('webfonts/2EA038_2_0.eot');src: url('webfonts/2EA038_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2EA038_2_0.woff2') format('woff2'),url('webfonts/2EA038_2_0.woff') format('woff'),url('webfonts/2EA038_2_0.ttf') format('truetype');}
+ 
